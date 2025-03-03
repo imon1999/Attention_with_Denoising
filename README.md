@@ -12,10 +12,13 @@ This project implements a **self-supervised image denoising model** using deep l
 
 ### **Noisy vs. Denoised Images**
 <p align="center">
-  <img src="Input/example_noisy.png" alt="Noisy Image" width="400"/>
-  <img src="Output/example_denoised.png" alt="Denoised Image" width="400"/>
+  <img src="Images/Noisy.png" alt="Noisy Image" width="300"/>
+  <img src="Images/Denoised.png" alt="Denoised Image" width="300"/>
 </p>
-
+<p align="center">
+  <b>Noisy Image</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Denoised Image</b>
+</p>
 
 ## **Installation**
 pip install -r requirements.txt
