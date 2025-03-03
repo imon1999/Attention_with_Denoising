@@ -3,3 +3,6 @@ torch==2.0.1
 torchvision==0.15.2
 Pillow==9.4.0
 glob2==0.7
+torchsummary==1.5.1
+partialconv2d==0.1.0
+
