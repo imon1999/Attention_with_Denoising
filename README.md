@@ -8,15 +8,23 @@ This project implements a **self-supervised image denoising model** using deep l
 - **Partial Convolutions**: Efficiently processes images with missing or noisy regions.
 - **Self-Supervised Learning**: No need for clean ground-truth images.
 - **Denoising Accuracy**: Enhances image quality by focusing on relevant regions.
+## **Results**
+
+### **Noisy vs. Denoised Images**
+<p align="center">
+  <img src="Input/example_noisy.png" alt="Noisy Image" width="400"/>
+  <img src="Output/example_denoised.png" alt="Denoised Image" width="400"/>
+</p>
+
 
 ## **Installation**
 pip install -r requirements.txt
 ## **How to Run**
 ---
+
 ### **Run the Model**
 Execute the script to process and denoise images:
 ```sh
 deepself2self.py
-
 
 
